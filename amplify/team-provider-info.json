@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-literatepotato-dev-155047-authRole",
+      "UnauthRoleArn": "arn:aws:iam::501241830849:role/amplify-literatepotato-dev-155047-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::501241830849:role/amplify-literatepotato-dev-155047-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-literatepotato-dev-155047-deployment",
+      "UnauthRoleName": "amplify-literatepotato-dev-155047-unauthRole",
+      "StackName": "amplify-literatepotato-dev-155047",
+      "StackId": "arn:aws:cloudformation:eu-west-1:501241830849:stack/amplify-literatepotato-dev-155047/9c5950f0-4094-11ed-9232-029a7cbadff5",
+      "AmplifyAppId": "d2v4pbmr13u74q"
+    }
+  }
+}
